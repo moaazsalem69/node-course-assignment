@@ -1,0 +1,20 @@
+[
+  {
+    "id": 84471,
+    "name": "Product one",
+    "description": "Product one description",
+    "Image": "images/shutterstock_211091626.png"
+  },
+  {
+    "id": 84472,
+    "name": "Product two",
+    "description": "Product two description",
+    "Image": "images/Bitmap(1).png"
+  },
+  {
+    "id": 84473,
+    "name": "Product three",
+    "description": "Product three description",
+    "Image": "images/Bitmap.png"
+  }
+]
